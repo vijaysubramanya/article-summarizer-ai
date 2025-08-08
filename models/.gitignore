@@ -1,0 +1,12 @@
+# Ignore model checkpoint folders
+checkpoint-*/
+
+# Ignore any model files that might be large
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Keep the README and metrics files
+!README.md
+!*.json 

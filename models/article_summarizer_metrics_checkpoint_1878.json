@@ -1,0 +1,27 @@
+{
+  "TrainOutput": {
+    "global_step": 1878,
+    "training_loss": 2.1260751520102015,
+    "metrics": {
+      "train_runtime": 1367.8907,
+      "train_samples_per_second": 21.932,
+      "train_steps_per_second": 1.373,
+      "total_flos": 4060254044160000.0,
+      "train_loss": 2.1260751520102015,
+      "epoch": 6.0
+    }
+  },
+  "Validation_ROUGE": {
+    "rouge1": 31.1,
+    "rouge2": 12.01,
+    "rougeL": 22.15,
+    "rougeLsum": 22.2
+  },
+  "Test_ROUGE": {
+    "rouge1": 30.56,
+    "rouge2": 10.74,
+    "rougeL": 22.04,
+    "rougeLsum": 22.1
+  }
+}
+
