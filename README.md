@@ -1,6 +1,6 @@
 # Article Summarizer Web App
 
-A modern web application that uses a trained T5 transformer model to generate concise summaries of articles. Built with Django (backend) and React (frontend).
+A modern web application that generates concise summaries of articles using a fine-tuned T5 transformer model. Built with Django (backend) and React (frontend).
 
 ## Features
 
